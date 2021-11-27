@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ishaansathaye
-- 👀 I’m interested in Python
+- Hi, I’m @ishaansathaye
+- I’m interested in Python
 - I am currently learning Machine Learning
 - Collaborations
 - How to reach me @ishaansathaye
