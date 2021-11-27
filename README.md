@@ -4,7 +4,7 @@
 - Collaborations
 - How to reach me @ishaansathaye
 TODO: Add counter and streak checker
-TODO: Add animation for name
+- name animation
 
 <!---
 ishaansathaye/ishaansathaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
