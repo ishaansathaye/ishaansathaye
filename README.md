@@ -3,7 +3,7 @@
 - I am currently learning Machine Learning
 - Collaborations
 - How to reach me @ishaansathaye
-TODO: Add counter and streak checker
+- counter and streak checker
 - name animation
 
 <!---
