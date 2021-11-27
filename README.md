@@ -1,7 +1,7 @@
 - Hi, I’m @ishaansathaye
 - I’m interested in Python
 - I am currently learning Machine Learning
-- Collaborations
+- Collaboration
 - How to reach me @ishaansathaye
 - counter and streak checker
 - name animation
