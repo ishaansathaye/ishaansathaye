@@ -5,7 +5,7 @@ class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Ishaan Sathaye"
-        self.languages = "Python
+        self.languages = "Python"
 
     def greet(self):
         print("Hi, Check out some of my projects!")
