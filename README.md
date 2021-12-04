@@ -5,7 +5,8 @@ class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Ishaan Sathaye"
-        self.languages = "Python"
+        self.languages = ["Python"]
+        self.tools = ["Git", "Jupyter", "Visual Studio"]
 
     def greet(self):
         print("Hi, Check out some of my projects!")
