@@ -7,6 +7,7 @@ class SoftwareDeveloper:
         self.name = "Ishaan Sathaye"
         self.languages = ["Python"]
         self.tools = ["Git", "Jupyter", "Visual Studio"]
+        self.interests = ["Machine Learning", "Algorithms"]
 
     def greet(self):
         print("Hi, Check out some of my projects!")
