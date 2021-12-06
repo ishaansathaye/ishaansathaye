@@ -10,7 +10,7 @@ class SoftwareDeveloper:
         self.interests = ["Machine Learning", "Algorithms"]
 
     def greet(self):
-        print("Hi, Check out some of my projects!")
+        print("Hi, check out some of my projects!")
 
 i = SoftwareDeveloper()
 i.greet()
