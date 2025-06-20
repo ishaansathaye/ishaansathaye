@@ -28,9 +28,11 @@ int main() {
 ```
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishaansathaye&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="600"/>
+  <a href="https://github.com/ishaansathaye"><img src="https://streak-stats.demolab.com/?user=ishaansathaye&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaansathaye&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansathaye&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="400"/>
 </p>
