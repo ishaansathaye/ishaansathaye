@@ -6,29 +6,31 @@
   <a href="https://ishaansathaye-resume.vercel.app"><img src="https://img.shields.io/badge/📄-Resume-blue?style=flat-square" alt="Resume"></a>
 </p>
 
-```cpp
-#include <iostream>
-#include <string>
+```rust
+struct SoftwareDeveloper {
+    name: String,
+}
 
-class SoftwareDeveloper {
-public:
-    SoftwareDeveloper() : name("Ishaan Sathaye") {}
-    void greet() const {
-        std::cout << "Check out some of my projects!" << std::endl;
+impl SoftwareDeveloper {
+    fn new() -> Self {
+        Self {
+            name: "Ishaan Sathaye".to_string(),
+        }
     }
-private:
-    std::string name;
-};
 
-int main() {
-    SoftwareDeveloper dev;
+    fn greet(&self) {
+        println!("Hi, I'm {} — check out some of my projects!", self.name);
+    }
+}
+
+fn main() {
+    let dev = SoftwareDeveloper::new();
     dev.greet();
-    return 0;
 }
 ```
 
 <p align="center">
-  <a href="https://github.com/ishaansathaye"><img src="https://streak-stats.demolab.com/?user=ishaansathaye&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></a>
+  <a href="https://github.com/ishaansathaye"><img src="https://raw.githubusercontent.com/ishaansathaye/ishaansathaye/main/github-metrics.svg" alt="GitHub Metrics" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaansathaye&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
