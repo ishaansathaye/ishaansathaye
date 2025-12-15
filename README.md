@@ -30,7 +30,7 @@ fn main() {
 ```
 
 <p align="center">
-  <a href="https://github.com/ishaansathaye"><img src="https://raw.githubusercontent.com/ishaansathaye/ishaansathaye/main/github-metrics.svg" alt="GitHub Metrics" /></a>
+  <a href="https://github.com/ishaansathaye"><img src="https://streak-stats.vercel.app/?user=ishaansathaye&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishaansathaye&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
